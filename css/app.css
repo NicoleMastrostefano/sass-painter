@@ -67,10 +67,10 @@ body {
 #header-bottom li:hover a {
   color: black;
 }
-#header-bottom a {
+#header-bottom li a {
   color: white;
 }
-#header-bottom i {
+#header-bottom li i {
   font-size: 10px;
   color: grey;
 }
